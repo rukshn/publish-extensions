@@ -1342,6 +1342,9 @@
   "vscode-icons-team.vscode-icons": {
     "repository": "https://github.com/vscode-icons/vscode-icons"
   },
+  "vscode-language-fsh": {
+    "repository": "https://github.com/standardhealth/vscode-language-fsh",
+  },
   "vscode-org-mode.org-mode": {
     "repository": "https://github.com/vscode-org-mode/vscode-org-mode",
     "custom": [
